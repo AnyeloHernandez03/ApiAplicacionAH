@@ -1,0 +1,36 @@
+# Carpetas generadas por la compilación
+bin/
+obj/
+
+# Configuración de Visual Studio
+.vs/
+
+# Archivos de usuario de Visual Studio
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.temp
+
+# Variables de entorno
+.env
+.env.*
+
+# Resultados de pruebas
+TestResults/
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
